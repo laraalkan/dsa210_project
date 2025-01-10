@@ -102,8 +102,7 @@ My activity also showed clear trends when analyzed on a monthly basis. I was mos
 Many of the pins do not have a specified title or category, and they are labeled as "None" which can limit the ability to categorize or analyze them effectively for the types of content I interact with most frequently.
 
 ## Future Work
-What could be done in the future: 
-
+In the future I could,
 Include more detailed analysis of user interactions like comments, followed boards of other users and repins.
 Integrate data from other platforms to compare cross-platform usage patterns.
 
