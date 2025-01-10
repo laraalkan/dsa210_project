@@ -84,7 +84,7 @@ To investigate my interactions with boards over time, I grouped the data by boar
 ## Findings
 **Active Pinning Times**
 
-From the analysis of hourly pinning activity, I observed that my most active hours were suprisingly in the morning, particularly at 9 AM and 10 AM. Additionally, I showed consistent activity during the late afternoon and early evening, between 4 PM and 7 PM. However, my activity significantly declined around noon, specifically between 12 PM and 2 PM, making this the least active period of the day. These patterns may reflect my daily routine and the times when I had the time or need to engage with Pinterest.
+From the analysis of hourly pinning activity, I observed that my most active hours were surprisingly in the morning, particularly at 9 AM and 10 AM. Additionally, I showed consistent activity during the late afternoon and early evening, between 4 PM and 7 PM. However, my activity significantly declined around noon, specifically between 12 PM and 2 PM. These patterns may reflect my daily routine and the times when I had the time or need to engage with Pinterest.
 
 **Most Active Boards**
 
