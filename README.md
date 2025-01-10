@@ -99,19 +99,14 @@ The heatmap analysis revealed clear patterns in how I interacted with specific b
 My activity also showed clear trends when analyzed on a monthly basis. I was most active during the months of September to December in 2023 and 2024, a period that likely coincided with my personal hobbies or specific projects. Additionally, I showed notable activity during January and March in 2020 and 2021. These patterns do not align with my hypothesis of "using Pinterest more in relatively free months which I did not have a very busy schedule such as classes in school, and using the app more in relatively free months such as summer as I had more time to pursue my hobbies and make artistic creations", however from the data anaylsis it can be derived that I was most active during the time I had more classes. I analyzed the years 2020-2021 also as I was still in high school during those years to see if the hypothesis held with my high school class schedule, however data showed that I was again the most active in school months especially during exam season.
 
 ## Limitations
-Data Sourced Limitations:
-Some timestamps in the data were missing or incomplete, which required cleaning and imputation.
-Certain board names were inconsistent or had irrelevant data attached, which was filtered out.
-
-Personal Limitations
-The dataset only represents my activity on Pinterest and does not account for external factors that may influence my behavior on the platform.
+Many of the pins do not have a specified title or category, and they are labeled as "None" which can limit the ability to categorize or analyze them effectively for the types of content I interact with most frequently.
 
 ## Future Work
-In the future, I could do:
+What could be done in the future: 
 
 Include more detailed analysis of user interactions like comments, followed boards of other users and repins.
 Integrate data from other platforms to compare cross-platform usage patterns.
-Extend the analysis to include time-of-day behavior for each board to see if specific boards are more active at certain times.
+
 
 
 
