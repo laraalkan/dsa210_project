@@ -14,11 +14,11 @@ This analysis will provide insights into:
 The reason I chose this project is, to better understand how my offline interests and seasonal habits reflect on my online behavior in the Pinterest app and to gain insight on how relative times in a year can affect my usage frequency of the app. The app offers me inspiration and ideas on certain categories especially in the context of artistic products. Therefore analyzing my Pinterest data offers a unique opportunity to gain self-insights and apply data science techniques to my personal data, and interpret the connections with my real-world life.
 
 ## Tools 
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
 ## Data Source
 The data was exported from my Pinterest account using their official data export tool in the HTML format, the relevant parts were scraped and saved as a csv file. The dataset includes information about:
