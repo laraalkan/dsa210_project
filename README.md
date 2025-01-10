@@ -57,7 +57,7 @@ A line graph plotted the frequency of pins created at each hour of the day. This
 
 **Board Interactions:**
 
-A bar chart was created to display the number of pins associated with each board. This visualization highlights the boards I interacted with most frequently and provided insights into my top areas of interest.
+A horizontal bar chart was created to display the number of pins associated with each board. This visualization highlights the boards I interacted with most frequently and provided insights into my top areas of interest.
 
 **Heatmap Analysis:**
 
@@ -88,7 +88,7 @@ From the analysis of hourly pinning activity, I observed that my most active hou
 
 **Most Active Boards**
 
-My Pinterest usage primarily revolved around artistic inspiration, as demonstrated by the popularity of boards related to creativity and artistic products. Two standout boards were the "Creation Inspo" board, focused on pottery and DIY projects, and the "Drawing" board. These boards consistently received a high number of pins, indicating their importance in supporting my hobbies.
+My Pinterest usage mostly revolved around artistic inspiration, as shown by the popularity of boards related to creativity and artistic products. Two standout boards were the "Creation Inspo" board, focused on pottery and DIY projects, and the "Drawing" board. These boards  have high number of pins, showing their importance in supporting my hobbies.
 
 **Heatmap Insights**
 
