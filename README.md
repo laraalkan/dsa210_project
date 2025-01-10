@@ -1,6 +1,6 @@
 # dsa210_project
 
-## Personal Data Analysis: Seasonal and Personal Interest Trends Based on Data in Pinterest
+## Personal data analysis of Pinterest usage based on time and reflection of interests
 
 ## Project Description
 This project explores my Pinterest usage data to uncover patterns in pinning behavior, the most active times of day and the types of boards I interact with the most based on different times and changes in personal interests. I used techniques like exploratory data analysis(EDA) and visualization to identify how my engagement evolves over time and across different categories.
